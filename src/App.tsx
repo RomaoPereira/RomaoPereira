@@ -24,7 +24,6 @@ function App() {
           <Projects />
           <Skills />
           <Architecture />
-          <Education />
           <GithubActivity />
           <Contact />
         </main>
